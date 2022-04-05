@@ -1,0 +1,9 @@
+Profile
+
+- Admin responsible for many employees
+- Needs to know about the wellness trends of employees
+
+Top Features
+
+- Trends: weekly breakdown of red, yellow, green
+- Trending words
